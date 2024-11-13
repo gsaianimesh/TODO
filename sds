@@ -1,0 +1,13 @@
+please fix the design
+Please make it look cooler and chill
+make it interactive 
+also add a category section 
+Where the category name is entered
+And they can choose the category of the task 
+And the tasks are divided and displayed separately based on the category
+also depending on the time left 
+If the time is overdue display over.png
+very less time display due.png 
+decent time display warning.png
+if time is there display attention.png beside the left
+change the color of the time left depending on the time
